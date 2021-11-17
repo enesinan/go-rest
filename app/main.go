@@ -23,8 +23,6 @@ type Food struct {
 var data []Food
 var foo []Food
 
-var timer = time.NewTimer(5 * time.Second)
-
 // Main
 func main() {
 	r := mux.NewRouter()
@@ -99,6 +97,7 @@ func createData(w http.ResponseWriter, r *http.Request) {
 	_ = json.NewDecoder(r.Body).Decode(&d)
 	d.ID = d.ID
 	fmt.Println("süre başladı")
+	var timer = time.NewTimer(5 * time.Second)
 	<-timer.C
 	data = append(data, d)
 	json.NewEncoder(w).Encode(d)
@@ -115,6 +114,7 @@ func updateData(w http.ResponseWriter, r *http.Request) {
 			var d Food
 			_ = json.NewDecoder(r.Body).Decode(&d)
 			d.ID = params["id"]
+			var timer = time.NewTimer(5 * time.Second)
 			<-timer.C
 			data = append(data, d)
 			json.NewEncoder(w).Encode(d)
