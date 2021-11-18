@@ -26,6 +26,9 @@ This repository contains rest api implementation with golang
 
 ![put](https://user-images.githubusercontent.com/72499839/142442436-f2245d6d-9557-4e00-84f6-d431b3851f30.png)
 
+![delete](https://user-images.githubusercontent.com/72499839/142442665-0fc886fa-516d-439f-b38e-59926d2b6979.png)
+
+
 
 # INSTALLATION
 
