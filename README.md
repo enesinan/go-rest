@@ -16,6 +16,8 @@ This repository contains rest api implementation with golang
 
 👉 Crud endpoints with gorilla/mux router for the build application 🔥
 
+# EXAMPLE
+
 # SECURITY
 
 If you discover any security related issues, please email to us instead of using the issue tracker.
