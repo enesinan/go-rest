@@ -40,6 +40,14 @@ $ curl -X POST [options] [URL]
 
 ```
 
+UPDATE
+
+``` bash
+$ curl -X PUT [options] [URL]
+
+```
+
+
 
 
 # CONTRIBUTION
