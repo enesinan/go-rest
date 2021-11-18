@@ -28,17 +28,19 @@ $ go run main.go
 
 # USAGE
 
+GET
+``` bash
+$ curl [URL]
+
+```
+
 POST
 ``` bash
 $ curl -X POST [options] [URL]
 
 ```
 
-GET
-``` bash
-$ curl [URL]
 
-```
 
 # CONTRIBUTION
 
