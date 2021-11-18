@@ -46,8 +46,12 @@ UPDATE
 $ curl -X PUT [options] [URL]
 
 ```
+DELETE
 
+``` bash
+$ curl -X DELETE [options] [URL]
 
+```
 
 
 # CONTRIBUTION
