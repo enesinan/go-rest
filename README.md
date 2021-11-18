@@ -25,6 +25,8 @@ Via Bash
 ``` bash
 $ go run main.go
 ```
+
+# USAGE
 # CONTRIBUTION
 
  Feel free to contribute by adding new templates to this project.
