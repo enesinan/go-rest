@@ -12,6 +12,6 @@ using this api.
 All API requests doesn't require the use of a generated API key. You don'T need API key, or generate a new one, just send your request. All API requests welcome.
 Be able to be start the development easily, we designed the open api.
 
-// Responses
+# Responses
 
 // Status Codes
