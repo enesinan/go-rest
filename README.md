@@ -18,7 +18,7 @@ This repository contains rest api implementation with golang
 
 # EXAMPLE
 
-## INSTALLATION
+# INSTALLATION
 
 Via Bash
 
@@ -27,6 +27,11 @@ $ go run main.go
 ```
 
 # USAGE
+
+``` bash
+$ curl -X POST [options] [URL]
+
+```
 # CONTRIBUTION
 
  Feel free to contribute by adding new templates to this project.
