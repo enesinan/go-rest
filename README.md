@@ -28,10 +28,18 @@ $ go run main.go
 
 # USAGE
 
+POST
 ``` bash
 $ curl -X POST [options] [URL]
 
 ```
+
+GET
+``` bash
+$ curl [URL]
+
+```
+
 # CONTRIBUTION
 
  Feel free to contribute by adding new templates to this project.
