@@ -5,3 +5,5 @@ go-rest was built for the simple basic api implementation for the developers. Fo
 // Use Cases
 
 // Authorization
+
+// Responses
