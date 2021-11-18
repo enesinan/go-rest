@@ -4,6 +4,10 @@
 This repository contains rest api implementation with golang
 
 
+# ⚡ LIVE  
+
+ * <a href="https://netflixclone-43aa9.web.app/">To check out the live demo of this app</a></br> </br> 
+
 # SECURITY
 
 If you discover any security related issues, please email to us instead of using the issue tracker.
