@@ -6,7 +6,7 @@ This repository contains rest api implementation with golang
 
 # ⚡ LIVE  
 
- * <a href="https://netflixclone-43aa9.web.app/">To check out the live demo of this app</a></br> </br> 
+ * <a href="https://go-restf.herokuapp.com/">To check out the live demo of this app</a></br> </br> 
 
 # SECURITY
 
