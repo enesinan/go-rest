@@ -18,6 +18,13 @@ This repository contains rest api implementation with golang
 
 # EXAMPLE
 
+## Installation
+
+Via Bash
+
+``` bash
+$ go run main.go
+```
 # CONTRIBUTION
 
  Feel free to contribute by adding new templates to this project.
