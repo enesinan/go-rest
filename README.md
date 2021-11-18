@@ -10,6 +10,11 @@ This repository contains rest api implementation with golang
 
 # ABOUT
 
+👉 Building a Rest API 💻
+
+👉 Deploying a Golang app with Heroku 🌐
+
+👉 Crud endpoints with gorilla/mux router for the build application 🔥
 
 # SECURITY
 
