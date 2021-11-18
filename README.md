@@ -20,6 +20,9 @@ This repository contains rest api implementation with golang
 
 # CONTRIBUTION
 
+ Feel free to contribute by adding new templates to this project.
+
+
 # SECURITY
 
 If you discover any security related issues, please email to us instead of using the issue tracker.
