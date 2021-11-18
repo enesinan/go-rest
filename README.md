@@ -18,7 +18,7 @@ This repository contains rest api implementation with golang
 
 # EXAMPLE
 
-## Installation
+## INSTALLATION
 
 Via Bash
 
