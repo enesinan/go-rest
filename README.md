@@ -18,6 +18,9 @@ This repository contains rest api implementation with golang
 
 # EXAMPLE
 
+![log](https://user-images.githubusercontent.com/72499839/142442059-1961eeb8-83a8-4893-8dee-f9f7a88d3c8a.png)
+
+
 # INSTALLATION
 
 Via Bash
