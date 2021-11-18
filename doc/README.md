@@ -14,4 +14,11 @@ Be able to be start the development easily, we designed the open api.
 
 # Responses
 
+Many API endpoints return the JSON representation of the resources created or edited.
+
+[{"id":"1","name":"Kebap","isSpicy":"Yes"},{"id":"2","name":"Pide","isSpicy":"No"}]
+
+
+
+
 // Status Codes
