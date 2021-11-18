@@ -4,7 +4,7 @@
 This repository contains rest api implementation with golang
 
 
-# Security
+# SECURITY
 
 If you discover any security related issues, please email to us instead of using the issue tracker.
 
